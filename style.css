@@ -1,0 +1,12 @@
+h1 { color : rgb(223, 226, 43) ;
+
+}
+p {color :rgb(165, 42, 75);}
+h2 {background-color: blue;}
+.banniere {
+    padding: 200px;/*permet de donner de l'espace dans notre element*/
+    background-image: url('IMG-20230128-WA0017_2.jpg');
+    text-align: center;
+}
+.entete {text-align: center;
+padding: auto;}
